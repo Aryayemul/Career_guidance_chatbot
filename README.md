@@ -2,7 +2,8 @@
 
 An AI-powered career guidance assistant with job search capabilities, career exploration, and personalized recommendations.
 
-Features
+#Features
+
 AI-powered Career Guidance: Get intelligent responses to career-related questions
 LinkedIn Job Search: Find and explore current job listings on LinkedIn
 Career Explorer: Browse information about various careers including responsibilities, skills, and educational requirements
